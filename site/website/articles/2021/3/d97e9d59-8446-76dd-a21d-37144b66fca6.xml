@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/test</content-type>
+	<display-template>/templates/web/test.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d97e</objectGroupId>
+	<objectId>d97e9d59-8446-76dd-a21d-37144b66fca6</objectId>
+	<file-name>d97e9d59-8446-76dd-a21d-37144b66fca6.xml</file-name>
+	<folder-name/>
+	<internal-name>Foo</internal-name>
+	<createdDate>2022-05-16T18:06:25.405Z</createdDate>
+	<createdDate_dt>2022-05-16T18:06:25.405Z</createdDate_dt>
+	<lastModifiedDate>2022-05-16T18:06:25.405Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-05-16T18:06:25.405Z</lastModifiedDate_dt>
+</component>
